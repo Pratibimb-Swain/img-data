@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic physical scene: a metal key that has been bent and twisted into a very strange shape so that it fits perfectly into one specific lock on a wooden table. Around it are many normal locks that the twisted key clearly cannot open. Workshop lighting, realistic materials, shallow depth of field, cinematic photography, highly detailed. No text, no labels, no diagrams.",
+  "model": "DALL·E 3",
+  "concept": "Overfitting",
+  "metaphor": "A key reshaped to fit one lock perfectly but useless for others, representing a model that memorizes training data but fails to generalize."
+}
