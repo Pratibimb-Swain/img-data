@@ -1,0 +1,7 @@
+{
+  "prompt": "A single conceptual image: a large black balloon shaped like the Earth being inflated by many factory chimneys pumping smoke into it. The balloon is stretched and looks like it is about to burst. Dark background, dramatic lighting, emotional, cinematic, highly detailed, magazine cover style. No text, no labels, no charts, no infographic.",
+  "model": "DALL·E 3",
+  "dataset_name": "Our World in Data CO2 and Greenhouse Gas Emissions",
+  "dataset_url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+  "insight": "Global emissions have increased rapidly over the last 50 years and have not yet peaked."
+}
